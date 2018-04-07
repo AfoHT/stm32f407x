@@ -6,7 +6,7 @@ keywords = ["arm", "cortex-m", "stm32", "svd2rust"]
 license = "MIT OR Apache-2.0"
 name = "stm32f407"
 repository = "https://github.com/reportingsjr/stm32f407x"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies]
 bare-metal = "0.1.1"
