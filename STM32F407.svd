@@ -5273,6 +5273,13 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <bitWidth>1</bitWidth>
             </field>
             <field>
+              <name>PLLN</name>
+              <description>Main PLL (PLL) multiplication factor for
+              VCO</description>
+              <bitOffset>6</bitOffset>
+              <bitWidth>9</bitWidth>
+            </field>
+            <field>
               <name>PLLM5</name>
               <description>Division factor for the main PLL (PLL)
               and audio PLL (PLLI2S) input clock</description>
